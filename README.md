@@ -6,7 +6,7 @@ dispel4py is a free and open-source Python library for describing abstract strea
 
 # Installation
 
-Visit the dispel4py [GitHub repository](https://github.com/dispel4py/dispel4py), which contains the instructions for installing it. 
+Visit the [dispel4py GitHub repository](https://github.com/dispel4py/dispel4py), which contains the instructions for installing it. 
 
 # Material
 
