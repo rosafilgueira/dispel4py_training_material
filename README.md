@@ -12,7 +12,7 @@ Visit the [dispel4py GitHub repository](https://github.com/dispel4py/dispel4py),
 
 This reporitory contains:
 
-- [dispel4py-tutorial](https://github.com/rosafilgueira/dispel4py_training_material/tree/master/dispel4py-tutorial): Two presentations [Basic](https://github.com/rosafilgueira/dispel4py_training_material/blob/master/dispel4py-tutorial/dispel4py_Basic.pdf) and [Advanced](https://github.com/rosafilgueira/dispel4py_training_material/blob/master/dispel4py-tutorial/dispel4py_Advanced.pdf) for understanding how to work with dispel4py.  This directory also contains two dispel4py workflows:
+- [dispel4py-tutorial](https://github.com/rosafilgueira/dispel4py_training_material/tree/master/dispel4py-tutorial): Two presentations [Basic](https://github.com/rosafilgueira/dispel4py_training_material/blob/master/dispel4py-tutorial/dispel4py_Basics.pdf) and [Advanced](https://github.com/rosafilgueira/dispel4py_training_material/blob/master/dispel4py-tutorial/dispel4py_Advanced.pdf) for understanding how to work with dispel4py.  This directory also contains two dispel4py workflows:
 
 	- My first dispel4py workflow [python](https://github.com/rosafilgueira/dispel4py_training_material/blob/master/dispel4py-tutorial/dispel4py_example_EvenOdd/My_First_dispel4py_Workflow.py) / [notebook](https://github.com/rosafilgueira/dispel4py_training_material/blob/master/dispel4py-tutorial/dispel4py_example_EvenOdd/My%20First%20dispel4py%20Workflow.ipynb) for checking that dispel4py installation works correctly. It also gives an introduction about how to write dispel4py PEs, how to connect them together, and how to execute a dispel4py workflow. Definitly is the first workflow that you should try.
 
