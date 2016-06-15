@@ -1,5 +1,6 @@
 # dispel4py_training_material
-This repository is dedicated to store different training material that we have presented at different events. It contains presentations, as well several dispel4py workflows
+This repository is dedicated to store different training material that we have presented at different events. It contains presentations, as well several 'simple' dispel4py workflows
+For more complex dispel4py workflows, you can visit the [dispel4py workflows GitHub repository](https://github.com/rosafilgueira/dispel4py_workflows)
 
 # dispel4py
 dispel4py is a free and open-source Python library for describing abstract stream-based workflows for distributed data-intensive applications. It enables users to focus on their scientific methods, avoiding distracting details and retaining flexibility over the computing infrastructure they use. It delivers mappings to diverse computing infrastructures, including cloud technologies, HPC architectures and specialised data-intensive machines, to move seamlessly into production with large-scale data loads. The dispel4py system maps workflows dynamically onto multiple enactment systems, such as MPI, STORM and Multiprocessing, without users having to modify their workflows.
@@ -19,7 +20,7 @@ This reporitory contains:
 	- The second dispel4py workflow, 'EvenOddworklow' presented as a [python](https://github.com/rosafilgueira/dispel4py_training_material/blob/master/dispel4py-tutorial/dispel4py_example_EvenOdd/EvenOddworkflow.py) / [notebook](https://github.com/rosafilgueira/dispel4py_training_material/blob/master/dispel4py-tutorial/dispel4py_example_EvenOdd/EvenOddworkflow.ipynb), gives you more insides of dispel4py, since it has more advance features than the previous one. For more complex workflows, you should go to [dispel4py_workflow_collection](https://github.com/rosafilgueira/dispel4py_training_material/tree/master/dispel4py_workflow_collection) directory.  
 
 - [dispel4py_simple_workflow_collection](https://github.com/rosafilgueira/dispel4py_training_material/tree/master/dispel4py_workflow_collection): This directory contains a set of dispel4py 'benchmark' workflows (Mycompression_exercise, My_First_dispel4py_Workflow, Testing_dispel4py, WordCount). Instructions and descriptions of the benchmarks workflow are included in the python scripts and notebooks. This directory also have two simplified
-real applications: Sentiment Twitter Analysis (analysis_sentiment) and Internal Galaxies Extintion (int_ext_graph). Instructions for executing the real workflows are also included (ReadmeTwitter.txt and ReadmeAstroWF.txt). 
+real applications: Sentiment Twitter Analysis (analysis_sentiment) and Internal Galaxies Extintion (int_ext_graph). Instructions for executing them are included (ReadmeTwitter.txt and ReadmeAstroWF.txt) here. 
 
 More explanation about the real applications can be found at the [eScience2015 Slides](https://github.com/rosafilgueira/dispel4py_training_material/blob/master/eScience2015_dispel4py.pdf). Furthermore, we have created a new [dispel4py workflow GitHub repository](https://github.com/rosafilgueira/dispel4py_workflows) for storing their complete version.
 
