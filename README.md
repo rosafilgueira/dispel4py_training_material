@@ -23,6 +23,6 @@ real applications: Sentiment Twitter Analysis (analysis_sentiment) and Internal 
 
 More explanation about the real applications can be found at the [eScience2015 Slides](https://github.com/rosafilgueira/dispel4py_training_material/blob/master/eScience2015_dispel4py.pdf). Furthermore, we have created a new [dispel4py workflow GitHub repository](https://github.com/rosafilgueira/dispel4py_workflows) for storing their complete version.
 
-- Conferences presentations: [EGU-2015 Slides](https://github.com/rosafilgueira/dispel4py_training_material/blob/master/EGU2015_OpenSource_dispel4py.pdf), [eScience2015 Slides](https://github.com/rosafilgueira/dispel4py_training_material/blob/master/eScience2015_dispel4py.pdf) and [AGU2015 Slides](Slides: https://github.com/rosafilgueira/dispel4py_training_material/blob/master/AGU2015_IN34A_dispel4py.pdf). More information can be foud at: https://www.computer.org/csdl/proceedings/e-science/2015/9325/00/9325a454-abs.html. 
+- Conferences presentations: [EGU-2015 Slides](https://github.com/rosafilgueira/dispel4py_training_material/blob/master/EGU2015_OpenSource_dispel4py.pdf), [eScience2015 Slides](https://github.com/rosafilgueira/dispel4py_training_material/blob/master/eScience2015_dispel4py.pdf) and [AGU2015 Slides](https://github.com/rosafilgueira/dispel4py_training_material/blob/master/AGU2015_IN34A_dispel4py.pdf). More information can be foud at: https://www.computer.org/csdl/proceedings/e-science/2015/9325/00/9325a454-abs.html. 
 
 
