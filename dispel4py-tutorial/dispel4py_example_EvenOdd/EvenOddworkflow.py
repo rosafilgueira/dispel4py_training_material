@@ -26,7 +26,7 @@ class NumberProducer(ProducerPE):
     def __init__(self):
         ProducerPE.__init__(self)
         
-    def _process(self):
+     def _process(self, inputs):
         result= random.randint(1, 1000)
         return result
         #OR: self.write('output', result)
