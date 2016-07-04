@@ -46,7 +46,7 @@ class StringProducer(ProducerPE):
         ProducerPE.__init__(self)
         self.length= length
        
-    def _process(self,inputs):
+    def _process(self, inputs):
         random_string = id_generator(self.length)
         #self.log("This is the string generated %s" % random_string)
         return random_string
