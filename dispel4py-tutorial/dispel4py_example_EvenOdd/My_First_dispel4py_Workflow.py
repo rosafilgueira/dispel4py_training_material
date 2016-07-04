@@ -120,7 +120,7 @@ class NumberProducer(ProducerPE):
         ProducerPE.__init__(self)
         self.start = start
         self.limit = limit
-    def _process(self):
+    def _process(self, inputs):
         for i in xrange(self.start, self.limit):
             self.write('output', i)
             # OR: self.write("ProducerPE.OUTPUT_NAME", i)
